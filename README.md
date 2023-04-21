@@ -38,12 +38,7 @@ ____
 - Using any type of notification/message system (Custom)
 - Custom logo setting for each job
 - Everything in this script can be changed through config
-____
-> :arrow_down: **Donwload**
 
-|||
-| --- | --- |
-|Github Link:|[**source**](https://github.com/amirhh-04/jasper-blip-creator)|
 ____
 > :chains: **Links**
 - [Tebex](https://jasper-development.tebex.io/)
